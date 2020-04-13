@@ -118,7 +118,7 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 @Slf4j
 @Controller
 @RequestMapping(value = "/external/connector")
-public class ExternalConnectorEndpoint {
+public class S1155RuleBrpcs3184 {
 
     public static final String CONTENT_DISPOSITION = "Content-Disposition";
 
